@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @MoyuST
 - 👨‍💻 I’m currently a CS undergraduate student.
 - 🏫 Currently studing in CUHK(SZ).
+- 📧 You can reach me at **myxuesheng@163.com**
