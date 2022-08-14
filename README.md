@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoyuST
-- 👨‍💻 I’m currently a CS undergraduate student.
-- 🏫 Currently studying in CUHK(SZ).
+- 👨‍💻 I have already receive CS BEng from CUHK(SZ).
+- 🏫 Currently pursuing CS Infocomm Security MComp in NUS.
 - 📧 You can reach me at **myxuesheng@163.com**
 - 👉 Github page: [MoyuST](http://moyust.github.io/)
