@@ -6,8 +6,8 @@
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <a href="https://github.com/MoyuST">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoyuST&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoyuST&theme=tokyonight" height="280px"/>
 </a>
 <a href="https://github.com/MoyuST">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoyuST&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="MoyuST's github stats" height="220px" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoyuST&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" alt="MoyuST's github stats" height="280px" />
 </a>
