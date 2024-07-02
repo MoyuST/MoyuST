@@ -3,11 +3,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ## Education
-- Recieved CS BEng from CUHK(SZ)
-- Pursuing CS Infocomm Security MComp in NUS (Expected Graduation date 2023/12)
+- BEng (in Computer Science) from CUHK(SZ)
+- MComp (in Infocomm Security) in NUS
 ## Interests
 - Learning online CS courses
-- Embedded developing, system developing
+- Embedded developing, backend developing, LLM's Security and Privacy
 ## Contacts
 - Email: **myxuesheng@163.com**
 - [MoyuST](http://moyust.github.io/)
